@@ -6,6 +6,8 @@
 👩‍💻 Full-Stack Web Developer | 🚀 Appassionata di tecnologia, crescita personale e crypto
 </p>
 
+> 💡 *Costruisco esperienze digitali che educano, semplificano e connettono – una riga di codice alla volta.*
+
 ---
 
 ## 👩‍💻 About Me
@@ -34,7 +36,6 @@ Ho completato il corso Full Stack Web Developer presso **Epicode** e da allora c
 
 - [Ali&La Crypto](https://www.alilacrypto.com/) - **Piattaforma educativa & interattiva** su crypto e blockchain  
 - [Portfolio Web Developer](https://alinagalben.dev/) - (in arrivo) Il mio sito personale come vetrina progetti  
-- [Capstone Epicode](link-al-progetto) - Progetto finale full-stack (React, Node.js, MongoDB, autenticazione)
 
 ---
 
@@ -76,8 +77,8 @@ Ho completato il corso Full Stack Web Developer presso **Epicode** e da allora c
 
 ## 📬 Contatti
 
-- [LinkedIn](https://www.linkedin.com/in/alina-galben/)  
-- Email: alinagalben@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alina-galben/)  
+- 📧 Email: alinagalben@gmail.com
 - 📍 Disponibile a Catania e provincia, oppure per lavori da remoto!
 
 ---
